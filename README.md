@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello, I'm MrScrupulus 👋
+
+## I recently completed my developer web training
+and I'm currently following a training for application developer and designer.
+
 
 <!--
 **MrScrupulus/MrScrupulus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
