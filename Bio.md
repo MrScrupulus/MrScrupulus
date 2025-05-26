@@ -27,7 +27,7 @@ and I'm currently following a training for application developer and designer.
 * Methodologie
   * Agile : Scrum / Kanban
 
-## Works
+## <span style="color:blue">Works</span>
 
 I'm currently working on [Street Fishing project](https://github.com/MrScrupulus/STF_PROJECT.git), and a [Cooking recipe app](https://github.com/MrScrupulus/Yum-yum.git).
 
